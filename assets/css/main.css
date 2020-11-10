@@ -16,6 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		color: #ffffff;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -3598,6 +3599,7 @@
 		font-size: 0.9em;
 		position: relative;
 		width: 26em;
+		color: #fffff;
 	}
 
 		#sidebar h2 {
