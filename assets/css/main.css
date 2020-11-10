@@ -2073,7 +2073,7 @@ background-size: cover;
 /* Type */
 
 	body, input, select, textarea {
-		color: #7f888f;
+		color: #ffffff;
 		font-family: "Open Sans", sans-serif;
 		font-size: 13pt;
 		font-weight: 400;
@@ -2137,7 +2137,7 @@ background-size: cover;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3d4449;
+		color: #ffffff;
 		font-family: "Roboto Slab", serif;
 		font-weight: 700;
 		line-height: 1.5;
@@ -2145,7 +2145,7 @@ background-size: cover;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #ffffff;
 			text-decoration: none;
 		}
 
