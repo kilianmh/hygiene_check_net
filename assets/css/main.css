@@ -2053,8 +2053,7 @@
 	}
 
 	body {
-			background-image: url("{{}site.url}}{{site.baseurl}}/assets/images/spectrum_gradient_blau.svg")
-			https://kilianmh.github.io/hygiene_check_net/assets/images/spectrum_gradient_blau.svg
+			background-image: url("{{site.url}}{{site.baseurl}}/assets/images/spectrum_gradient_blau.svg")
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
