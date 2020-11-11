@@ -16,7 +16,7 @@ layout: default
 					<li>Biologische Arbeitsstoffe</li>
 					<li>Potenziell infektiöses Material</li>
 					<li>§ 35 Belehrung</li>
-				</p>
+				</ul>
 			</div>
 		</article>
 		<article>
