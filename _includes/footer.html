@@ -1,6 +1,39 @@
+<!-- Footer -->
+<footer id="footer">
+	<div class="inner">
+		<section>
+			<h2>Get in touch</h2>
+			<form method="post" action="https://formspree.io/{{ site.email }}"
+      method="POST">
+				<div class="field half first">
+					<input type="text" name="name" id="name" placeholder="Name" />
+				</div>
+				<div class="field half">
+					<input type="email" name="_replyto" id="email" placeholder="Email" />
+				</div>
+				<div class="field">
+					<textarea name="message" id="message" placeholder="Message"></textarea>
+				</div>
+				<ul class="actions">
+					<li>
+						<input type="submit" value="Send" class="special" />
+					</li>
+				</ul>
+			</form>
+		</section>
+		<section>
+		<ul class="copyright">
+			<li>{{ site.title }} &copy; Alle Rechte Vorbehalten. Design: <a href="https://html5up.net">HTML5 UP.</li>
+			<li><a href="impressum.html">Impressum</a></li>
+    </ul>
+    </section>
+
+	</div>
+</footer>
+
 <!-- Scripts -->
-  <script src="{{ 'assets/js/jquery.min.js' | absolute_url }}"></script>
-  <script src="{{ 'assets/js/skel.min.js' | absolute_url }}"></script>
-  <script src="{{ 'assets/js/util.js' | absolute_url }}"></script>
-  <!--[if lte IE 8]><script src="{{ 'assets/js/ie/respond.min.js' | absolute_url }}"></script><![endif]-->
-  <script src="{{ 'assets/js/main.js' | absolute_url }}"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/skel.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>

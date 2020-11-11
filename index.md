@@ -21,7 +21,7 @@ layout: default
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
-			<a href="schulungen.html"><div class="content">
+			<a href="schulung.html"><div class="content">
 				<h3>Schulungen</h3>
 				<ul>
                 <li>KiTa</li>
