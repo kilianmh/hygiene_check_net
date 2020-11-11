@@ -15,9 +15,9 @@ layout: default
 				<ul>
 					<li>Biologische Arbeitsstoffe</li>
 					<li>Potenziell infektiöses Material</li>
-					<li>§ 35 Belehrung</li></a>
+					<li>§ 35 Belehrung</li>
 				</ul>
-			</div>
+			</div></a>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
@@ -29,9 +29,9 @@ layout: default
                 <li>Schule</li>
                 <li>Altenpflege</li>
                 <li>Behinderteneinrichtungen</li>
-                <li>Ambulante Pflege</li></a>
+                <li>Ambulante Pflege</li>
               </ul>
-			</div>
+			</div></a>
 		</article>
 		<article>
 			<span class="icon fa-rocket"></span>
