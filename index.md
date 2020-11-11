@@ -50,7 +50,7 @@ layout: default
 		<article>
 			<span class="icon fa-signal"></span>
 			<div class="content">
-				<h3>HSchlussdesinfektion bei Infektionsgeschehen</h3>
+				<h3>Schlussdesinfektion bei Infektionsgeschehen</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
