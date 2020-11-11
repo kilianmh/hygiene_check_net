@@ -64,9 +64,9 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/20201111_rki_dashboard" alt="" /></a>
+			<a href="https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d49" class="image"><img src="assets/images/20201111_rki_dashboard.png" alt="RKI-Dashboard" /></a>
 			<h3>Covid19-Dashboard</h3>
-			<p>Link zur aktuellen Entwicklung: [https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d49](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4){:target="_blank"}</p>
+			<p>Link zur aktuellen Entwicklung: <a href="https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d49" target="_blank">https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4</a></p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
