@@ -60,13 +60,13 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Ipsum sed dolor</h2>
+		<h2>Aktuelles</h2>
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-			<h3>Interdum aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<a href="#" class="image"><img src="assets/images/20201111_rki_dashboard" alt="" /></a>
+			<h3>Covid19-Dashboard</h3>
+			<p>Link zur aktuellen Entwicklung: [https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d49](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4){:target="_blank"}</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
