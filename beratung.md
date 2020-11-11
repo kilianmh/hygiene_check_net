@@ -25,7 +25,7 @@ categories: beratung, desinfektion
 
 Fachlich geeignet sind Personen, die aufgrund ihrer abgeschlossenen Ausbildung und Erfah­ rung Infektionsgefahren erkennen und Maßnahmen zu Ihrer Abwehr treffen können, z. B. Ärzte, Zahnärzte, Gesundheits- und Krankenpfleger, Medizinisch-technische Assistenten, Hebammen, Desinfektoren, Medizinische oder Zahnmedizinische Fachangestellte, Rettungs­ sanitäter und -assistenten und Altenpfleger.
 
-{**§ 35 Belehrung für Personen in der Betreuung von Kindern und Jugendlichen**}(https://www.gesetze-im-internet.de/ifsg/__35.html){:target="_blank"}  
+## [**§ 35 Belehrung für Personen in der Betreuung von Kindern und Jugendlichen**](https://www.gesetze-im-internet.de/ifsg/__35.html){:target="_blank"}
 Personen, die in den in § 33 genannten Gemeinschaftseinrichtungen Lehr-, Erziehungs-, Pflege-, Aufsichts- oder sonstige regelmäßige Tätigkeiten ausüben und Kontakt mit den dort Betreuten haben, sind vor erstmaliger Aufnahme ihrer Tätigkeit und im Weiteren mindestens im Abstand von zwei Jahren von ihrem Arbeitgeber über die gesundheitlichen Anforderungen und Mitwirkungsverpflichtungen nach § 34 zu belehren. Über die Belehrung ist ein Protokoll zu erstellen, das beim Arbeitgeber für die Dauer von drei Jahren aufzubewahren ist. Die Sätze 1 und 2 finden für Dienstherren entsprechende Anwendung.
 
 [Biologische Arbeitsstoffe im Gesundheitswesen und in der Wohlfahrtspflege](https://www.bgw-online.de/SharedDocs/Downloads/DE/Medientypen/DGUV_vorschrift-regel/TRBA250_Biologische-Arbeitsstoffe_bf_Download.pdf?__blob=publicationFile){:target="_blank"}
