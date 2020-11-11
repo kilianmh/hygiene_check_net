@@ -10,48 +10,48 @@ layout: default
 	<div class="features">
 		<article>
 			<span class="icon fa-diamond"></span>
-			<div class="content">
+			<a href="beratung.html"><div class="content">
 				<h3>Beratung</h3>
 				<ul>
 					<li>Biologische Arbeitsstoffe</li>
 					<li>Potenziell infektiöses Material</li>
-					<li>§ 35 Belehrung</li>
+					<li>§ 35 Belehrung</li></a>
 				</ul>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
-			<div class="content">
+			<a href="schulungen.html"><div class="content">
 				<h3>Schulungen</h3>
 				<ul>
-                <li><KiTa</li>
+                <li>KiTa</li>
                 <li>Kindergarten</li>
                 <li>Schule</li>
                 <li>Altenpflege</li>
                 <li>Behinderteneinrichtungen</li>
-                <li>Ambulante Pflege</li>
+                <li>Ambulante Pflege</li></a>
               </ul>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-rocket"></span>
-			<div class="content">
+			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p></a>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
-			<div class="content">
+			<a href="plan.html"><div class="content">
 				<h3>Hygiene- /Desinfektionspläne</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p></a>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
-			<div class="content">
+			<a href="schlussdesinfektion.html"><div class="content">
 				<h3>Schlussdesinfektion bei Infektionsgeschehen</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p></a>
 			</div>
 		</article>
 	</div>
