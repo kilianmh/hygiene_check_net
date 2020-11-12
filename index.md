@@ -37,14 +37,17 @@ layout: default
 			<span class="icon fa-rocket"></span>
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>Individuelle Gefahrenanalyse zur Verhinderung von Covid19</p>
 			</div></a>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
 			<a href="plan.html"><div class="content">
 				<h3>Hygiene- /Desinfektionspläne</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<<ul>
+					<li>Hygienepläne nach dem fünf Punkte System</li>
+					<li>Individuelle Desinfektionspl&auml;ne</li>
+				</ul>
 			</div></a>
 		</article>
 		<article>
