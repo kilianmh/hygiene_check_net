@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Beratung im aktuellen Infektionsgeschehen
-featured-image: images/pic13.jpg
 categories: beratung, desinfektion
+link: beratung.html
 ---
 
 ## Biologische Arbeitsstoffe

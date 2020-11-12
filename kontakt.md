@@ -3,6 +3,7 @@ layout: page
 author: "Kilian"
 categories: blog
 title: Kontakt
+link: contact.html
 ---
 
 Bei Fragen oder W&uuml;nschen k&ouml;nnen Sie uns gerne anrufen, E-Mail schreiben, oder uns &uuml;ber das Formular eine Anfrage senden.

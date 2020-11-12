@@ -2334,7 +2334,7 @@
 		outline: 0;
 		padding: 0 1em;
 		text-decoration: none;
-		width: 100%;
+		width: auto;
 	}
 
 		input[type="text"]:invalid,

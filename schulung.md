@@ -2,6 +2,7 @@
 layout: page
 title:  "Schulungen"
 categories: hauptseite
+link: schulung.html
 ---
 
 Hygiene-Schulung nach neusten RKI Richtlinien: Infektionsschutzgesetz und Arbeitsschutz nach TRBA 250.

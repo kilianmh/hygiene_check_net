@@ -2,6 +2,7 @@
 layout: page
 title:  "Gefahrenanalyse"
 categories: hauptseite
+link: gefahrenanalyse.html
 ---
 
 ## 1
