@@ -11,6 +11,8 @@ Krummestraße 1b
 77963 Schwanau  
 Telefon: +4917684905537  
 E-Mail: [susana.montoro@gmx.de](mailto:susana.montoro@gmx.de)
+[!["Susana_montoro"](asset/images/Bewerbungsfoto_Susana)]{: .image.right}
+
 
 ### Staatlich geprüfter Desinfektor, Altenpfleger
 Joachim B. H&auml;mmerle  
