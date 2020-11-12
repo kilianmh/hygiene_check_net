@@ -5,6 +5,8 @@ categories: blog
 title: Kontakt
 ---
 
+Bei Fragen oder W&uuml;nschen k&ouml;nnen Sie uns gerne anrufen, E-Mail schreiben, oder uns &uuml;ber das Formular eine Anfrage senden.
+
 ### Staatlich geprüfte Desinfektorin, Arbeitspädogin
 Susana Montoro y Stingl  
 Krummestraße 1b  
