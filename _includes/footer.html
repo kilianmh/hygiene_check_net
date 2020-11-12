@@ -1,6 +1,28 @@
+<!-- Footer -->
+<footer id="footer">
+	<div class="inner">
+		<section>
+			<h2>Kontaktieren Sie uns gerne direkt!</h2>
+      <form action="https://formsubmit.co/kilian.haemmerle@protonmail.com" method="POST">
+        <input type="text" name="name" required>
+        <input type="email" name="email" required>
+        <button type="submit">Send</button>
+      </form>
+		</section>
+		<section>
+		<div class="copyright">
+      <p><a href="kontakt.html">Kontakt</a></p>
+      <p><a href="impressum.html">Impressum</a></p>
+      <p>&copy; {{ site.title }}. Alle Rechte Vorbehalten. Design: <a href="https://html5up.net">HTML5 UP.</p>
+      </div>
+    </section>
+
+	</div>
+</footer>
+
 <!-- Scripts -->
-  <script src="{{ 'assets/js/jquery.min.js' | absolute_url }}"></script>
-  <script src="{{ 'assets/js/skel.min.js' | absolute_url }}"></script>
-  <script src="{{ 'assets/js/util.js' | absolute_url }}"></script>
-  <!--[if lte IE 8]><script src="{{ 'assets/js/ie/respond.min.js' | absolute_url }}"></script><![endif]-->
-  <script src="{{ 'assets/js/main.js' | absolute_url }}"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/skel.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>

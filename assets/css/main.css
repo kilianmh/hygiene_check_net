@@ -19,6 +19,7 @@
 		color: #ffffff;
 	}
 
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -2301,6 +2302,7 @@
 
 	form {
 		margin: 0 0 2em 0;
+		color: #000000;
 	}
 
 	label {
