@@ -71,11 +71,10 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Nulla amet dolore</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="image"><img src="assets/images/pic02.jpg" alt="gefahren durch desinfektionsmittel" /></a>
+			<h3>Gefahren durch Desinfektionsmittel</h3>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="button">Mehr</a></li>
 			</ul>
 		</article>
 	</div>
