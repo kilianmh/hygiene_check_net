@@ -5,11 +5,15 @@
 			<h2>Kontaktieren Sie uns gerne direkt!</h2>
       <form action="https://formsubmit.co/kilian.haemmerle@protonmail.com" method="POST">
         <input type="text" name="name" placeholder="Name"  maxlength="50" size="50" required>
-        <input type="tel" name="tel" placeholder="Telefon" maxlength="20" size="20" required>
+        <input type="tel" name="tel" placeholder="Telefon" maxlength="50" size="50" required>
         <input type="email" name="email" placeholder="E-Mail-Addresse" maxlength="50" size="50" required>
         <input type="text" name="nachricht" placeholder="Nachricht" rows = "5" cols = "50" required>
+        <input type="checkbox" id="gdpr" name="subscribe" value="Datenschutz">
+        <input type="hidden" name="_subject" value="Kontaktformular Hygiene-Check.Net">
+        <input type="text" name="_honey" style="display:none">
         <input type="hidden" name="_next" value="{{site.url}}{{site.baseurl}}/{{page.link}}">
-        <br><button type="submit">Send</button>
+        <input type="hidden" name="_autoresponse" value="Vielen Dank f&uuml;r Ihre Nachricht! Das Hygiene-Check.Net Team meldet sich in k&uuml;rze bei Ihnen.">
+        Lesen Sie hier die <a href="https://formsubmit.co/privacy.pdf">Privatsp&auml;re</a><button type="submit">Send</button>
       </form>
 		</section>
 		<section>
