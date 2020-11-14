@@ -2336,7 +2336,7 @@
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
-		margin: 0 0 1em 0;
+		margin: 0 0 0 0;
 		grid-column: label;
 		align-self: center;
 		vertical-align: middle;
@@ -2448,12 +2448,13 @@
 		opacity: 0;
 		width: 1em;
 		z-index: -1;
+		color: #ffffff;
 	}
 
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #7f888f;
+			color: #ffffff;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -3852,7 +3853,7 @@
 
 		#header .logo {
 			border-bottom: 0;
-			color: inherit;
+			color: #ffffff;
 			font-family: "Roboto Slab", serif;
 			font-size: 1.125em;
 		}
@@ -4012,7 +4013,7 @@
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		color: #3d4449;
+		color: #ffffff;
 		font-family: "Roboto Slab", serif;
 		font-family: 400;
 		letter-spacing: 0.075em;
