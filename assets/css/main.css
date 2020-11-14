@@ -2310,6 +2310,7 @@
 		display: grid;
 		grid-gap: 10px;
 		grid-template-columns: [label] auto [input] 1fr;
+		color: #ffffff;
 	}
 
 	input {
@@ -2318,14 +2319,14 @@
 	}
 
 	label {
-		color: #3d4449;
+		color: #ffffff;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
 		margin: 0 0 1em 0;
 		grid-column: label;
 		align-self: center;
-	  
+		vertical-align: middle;
 	}
 
 	input[type="text"],

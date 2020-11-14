@@ -68,10 +68,10 @@ link: index.html
 	</header>
 	<div class="posts">
 		<article>
-			<a href="https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4" class="image"><img src="assets/images/20201111_rki_dashboard.png" alt="RKI-Dashboard" /></a>
+			<a href="https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4" class="image" target="_blank"><img src="assets/images/20201111_rki_dashboard.png" alt="RKI-Dashboard" /></a>
 			<a href="https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4" target="_blank"><h3>Aktuelles Covid19-Dashboard</h3></a>
 			<ul class="actions">
-				<li><a href="https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4" class="button">Mehr</a></li>
+				<li><a href="https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4" class="button" target="_blank">Mehr</a></li>
 			</ul>
 		</article>
 		<article>
