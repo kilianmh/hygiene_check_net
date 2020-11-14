@@ -2303,7 +2303,7 @@
 
 	form {
 		margin: 0 0 2em 0;
-		color: #000000;
+		color: #ffffff;
 	}
 
 	.container{
@@ -2317,6 +2317,19 @@
 		grid-column: input;
 		align-self: center;
 	}
+
+	::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+		color: #000000;
+		opacity: 1; /* Firefox */
+	  }
+	  
+	:-ms-input-placeholder { /* Internet Explorer 10-11 */
+		color: #000000;
+	  }
+	  
+	  ::-ms-input-placeholder { /* Microsoft Edge */
+		color: #000000;
+	  }
 
 	label {
 		color: #ffffff;
@@ -4011,7 +4024,7 @@
 
 		#menu ul a, #menu ul span {
 			border-bottom: 0;
-			color: inherit;
+			color: #ffffff;
 			cursor: pointer;
 			display: block;
 			font-size: 0.9em;
