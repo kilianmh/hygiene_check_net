@@ -2083,6 +2083,7 @@
 		line-height: 1.65;
 	}
 
+
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
@@ -2305,12 +2306,26 @@
 		color: #000000;
 	}
 
+	.container{
+		display: grid;
+		grid-gap: 10px;
+		grid-template-columns: [label] auto [input] 1fr;
+	}
+
+	input {
+		grid-column: input;
+		align-self: center;
+	}
+
 	label {
 		color: #3d4449;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
 		margin: 0 0 1em 0;
+		grid-column: label;
+		align-self: center;
+	  
 	}
 
 	input[type="text"],
@@ -2334,7 +2349,7 @@
 		outline: 0;
 		padding: 0 1em;
 		text-decoration: none;
-		width: 100%;
+		/* width: 100%; */
 	}
 
 		input[type="text"]:invalid,

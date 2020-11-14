@@ -4,16 +4,28 @@
 		<section>
 			<h2>Kontaktieren Sie uns gerne direkt!</h2>
       <form action="https://formsubmit.co/kilian.haemmerle@protonmail.com" method="POST">
+        <label for="name">Name:</label>
         <input type="text" name="name" placeholder="Name"  maxlength="50" size="50" required>
-        <input type="tel" name="tel" placeholder="Telefon" maxlength="50" size="50" required>
+        
+        <label for="tel">Telefon:</label>
+        <input type="tel" name="tel" placeholder="Telefon" maxlength="50" size="50" required><br>
+        
+        <label for="email">E-Mail: </label>
         <input type="email" name="email" placeholder="E-Mail-Addresse" maxlength="50" size="50" required>
         <input type="text" name="nachricht" placeholder="Nachricht" rows = "5" cols = "50" required>
-        <input type="checkbox" id="gdpr" name="subscribe" value="Datenschutz">
+        <input type="checkbox" id="datenschutz" name="subscribe" value="einverst&auml;ndnis">
+        <label for="datenschutz">Akzeptieren der Datenverarbeitung
+          Ich habe die <a href="datenschutz.html" target="_blank">Datenschutzerklärung</a> gelesen *.<br>
+          Mit dem Absenden des Kontaktformulars erklären Sie sich damit einverstanden, dass Ihre persönlichen Daten zur Bearbeitung Ihres Anliegens verwendet werden 
+          (weitere Informationen und Widerrufshinweise finden Sie in der <a href="datenschutz.html" target="_blank">Datenschutzerklärung</a>).<br>
+          Alle mit einem "*" markierten Felder müssen ausgefüllt werden, um die Anfrage abschicken zu können.
+
+        </label><br>
         <input type="hidden" name="_subject" value="Kontaktformular Hygiene-Check.Net">
         <input type="text" name="_honey" style="display:none">
         <input type="hidden" name="_next" value="{{site.url}}{{site.baseurl}}/{{page.link}}">
         <input type="hidden" name="_autoresponse" value="Vielen Dank f&uuml;r Ihre Nachricht! Das Hygiene-Check.Net Team meldet sich in k&uuml;rze bei Ihnen.">
-        Lesen Sie hier die <a href="https://formsubmit.co/privacy.pdf">Privatsp&auml;re</a><button type="submit">Send</button>
+        <button type="submit">Anfrage abschicken</button>
       </form>
 		</section>
 		<section>
