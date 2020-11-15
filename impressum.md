@@ -29,5 +29,5 @@ Sisteroner Weg 6
 E-Mail: [kilian.haemmerle@protonmail.com](mailto:kilian.haemmerle@protonmail.com)  
 Tel. +4915905369688
 
-Design: [HTML5 UP](https://html5up.net}{:target="_blank"}  
+Design: [HTML5 UP](https://html5up.net]{:target="_blank"}  
 Hintergrund: [SVGBAckgrounds.com](https://svgbackgrounds.com/){:target="_blank"}  

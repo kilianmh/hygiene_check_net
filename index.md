@@ -35,7 +35,9 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon fas fa-chalkboard-teacher"></span>
+			<span class="icon">
+			<img src="images/chalkboard-teacher.svg" alt="Gefahrenanalyse"></img>
+			</span>
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
 				<p>Individuelle Gefahrenanalyse zur Verhinderung von Covid19</p>
@@ -45,7 +47,7 @@ link: index.html
 			<span class="icon fa-signal"></span>
 			<a href="plan.html"><div class="content">
 				<h3>Hygiene- /Desinfektionspläne</h3>
-				<<ul>
+				<ul>
 					<li>Hygienepläne nach dem fünf Punkte System</li>
 					<li>Individuelle Desinfektionspl&auml;ne</li>
 				</ul>
@@ -55,7 +57,7 @@ link: index.html
 			<span class="icon fa-signal"></span>
 			<a href="schlussdesinfektion.html"><div class="content">
 				<h3>Schlussdesinfektion bei Infektionsgeschehen</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>Durchf&uuml;hrung nach RKI-Richtlinien und Infektionsschutzgesetz</p>
 			</div></a>
 		</article>
 	</div>
