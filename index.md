@@ -37,7 +37,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="fas fa-viruses"></span>
+			<span class="icon" style="background-image: url('assets/images/viruses.svg');"></span>
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
 				<p>Individuelle Gefahrenanalyse zur Verhinderung von Covid19</p>
@@ -77,7 +77,7 @@ link: index.html
 			</ul>
 		</article>
 		<article>
-			<a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="image" target="_blank"><img src="assets/images/pic02.jpg" alt="gefahren durch desinfektionsmittel" /></a>
+			<a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="image" target="_blank"><img src="" alt="gefahren durch desinfektionsmittel" /></a>
 			<h3>Gefahren durch Desinfektionsmittel</h3>
 			<ul class="actions">
 				<li><a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="button" target="_blank">Mehr</a></li>
