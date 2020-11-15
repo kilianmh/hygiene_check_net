@@ -36,7 +36,7 @@ link: index.html
 		</article>
 		<article>
 			<span class="icon">
-			<img src="images/chalkboard-teacher.svg" alt="Gefahrenanalyse"></img>
+			<img src="assets/images/chalkboard-teacher.svg" alt="Gefahrenanalyse"></img>
 			</span>
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
