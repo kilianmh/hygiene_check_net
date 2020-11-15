@@ -37,7 +37,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon fas fa-viruses"></span>
+			<span class="fas fa-viruses"></span>
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
 				<p>Individuelle Gefahrenanalyse zur Verhinderung von Covid19</p>
