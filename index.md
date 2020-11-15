@@ -42,7 +42,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon fa-signal"></span>
+			<span class="icon fas fa-signal"></span>
 			<a href="plan.html"><div class="content">
 				<h3>Hygiene- /Desinfektionspläne</h3>
 				<ul>
