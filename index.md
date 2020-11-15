@@ -22,7 +22,7 @@ link: index.html
 				</ul>
 			</div></a>
 		</article>
-		<article>
+		<article>		
 			<i class="fas fa-virus-shield"></i>
 			<a href="schulung.html"><div class="content">
 				<h3>Schulungen</h3>
@@ -37,14 +37,14 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon" style="width: 9%; height: 70%; background-image: url('assets/images/viruses.svg');"></span>
+			<span class="icon"><img src="assets/images/viruses.svg" style="width: 100%; height:100%;"></span>		
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
 				<p>Individuelle Gefahrenanalyse zur Verhinderung von Covid19</p>
 			</div></a>
 		</article>
 		<article>
-		<span class="icon"><img src="assets/images/pump-medical.svg"></span>
+		<span class="icon"><img src="assets/images/pump-medical.svg" style="width: 100%; height:100%;"></span>
 			<a href="plan.html"><div class="content">
 				<h3>Hygiene- /Desinfektionspläne</h3>
 				<ul>
