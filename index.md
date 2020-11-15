@@ -25,8 +25,7 @@ link: index.html
 			<a href="schulung.html"><div class="content">
 				<h3>Schulungen</h3>
 				<ul>
-                <li>KiTa</li>
-                <li>Kindergarten</li>
+                <li>KiTa / Kindergarten</li>
                 <li>Schule</li>
                 <li>Altenpflege</li>
                 <li>Behinderteneinrichtungen</li>
