@@ -10,7 +10,9 @@ link: index.html
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon fas fa-virus-slash"></span>
+			<span class="icon">
+				<i class="fas fa-virus-slash"></i>
+			</span>
 			<a href="beratung.html"><div class="content">
 				<h3>Beratung</h3>
 				<ul>
