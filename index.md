@@ -37,7 +37,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon" style="background-image: url('assets/images/viruses.svg');"></span>
+			<span class="icon" style="width: 62px; height: 50px; background-image: url('assets/images/viruses.svg');"></span>
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
 				<p>Individuelle Gefahrenanalyse zur Verhinderung von Covid19</p>
