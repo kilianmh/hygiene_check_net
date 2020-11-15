@@ -3201,7 +3201,7 @@
 					-ms-transform: rotate(45deg);
 					transform: rotate(45deg);
 					border-radius: 0.25rem;
-					border: solid 2px rgba(210, 215, 217, 0.75);
+					/* border: solid 2px rgba(210, 215, 217, 0.75); */
 					content: '';
 					display: block;
 					height: 7em;
