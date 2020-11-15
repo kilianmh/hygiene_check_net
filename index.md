@@ -10,7 +10,7 @@ link: index.html
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon"><img src="assets/images/virus-shield.svg" style="width: 100%; height:100%;"></span>
+			<span class="icon"><img src="assets/images/shield-virus.svg" style="width: 100%; height:100%;"></span>
 			<a href="beratung.html"><div class="content">
 				<h3>Beratung</h3>
 				<ul>
@@ -74,7 +74,7 @@ link: index.html
 			</ul>
 		</article>
 		<article>
-			<a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="image" target="_blank"><img src="" alt="gefahren durch desinfektionsmittel" /></a>
+			<!-- <a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="image" target="_blank"><img src="" alt="gefahren durch desinfektionsmittel" /></a> -->
 			<h3>Gefahren durch Desinfektionsmittel</h3>
 			<ul class="actions">
 				<li><a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="button" target="_blank">Mehr</a></li>
