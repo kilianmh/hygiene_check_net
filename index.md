@@ -23,9 +23,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon">
-				<i class="icon fas fa-virus-shield"></i>
-			</span>
+			<i class="fas fa-virus-shield"></i>
 			<a href="schulung.html"><div class="content">
 				<h3>Schulungen</h3>
 				<ul>
