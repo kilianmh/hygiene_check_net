@@ -35,9 +35,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon">
-			<img src="assets/images/chalkboard-teacher.svg" alt="Gefahrenanalyse"></img>
-			</span>
+			<span class="icon fa-chalkboard"></span>
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
 				<p>Individuelle Gefahrenanalyse zur Verhinderung von Covid19</p>
