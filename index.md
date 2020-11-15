@@ -52,7 +52,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon fa-signal"></span>
+			<span class="fas fa-signal"></span>
 			<a href="schlussdesinfektion.html"><div class="content">
 				<h3>Schlussdesinfektion bei Infektionsgeschehen</h3>
 				<p>Durchf&uuml;hrung nach RKI-Richtlinien und Infektionsschutzgesetz</p>
