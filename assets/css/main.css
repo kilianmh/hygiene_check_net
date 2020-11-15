@@ -2128,7 +2128,7 @@
 			}
 
 	strong, b {
-		color: #3d4449;
+		color: #ffffff;
 		font-weight: 600;
 	}
 
@@ -2316,6 +2316,11 @@
 	input {
 		grid-column: input;
 		align-self: center;
+	}
+
+	textarea {
+		grid-column: input;
+		align-self: center;	
 	}
 
 	::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
