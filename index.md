@@ -10,9 +10,7 @@ link: index.html
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon">
-				<i class="fas fa-virus-slash"></i>
-			</span>
+			<span class="icon"><img src="assets/images/virus-shield.svg" style="width: 100%; height:100%;"></span>
 			<a href="beratung.html"><div class="content">
 				<h3>Beratung</h3>
 				<ul>
@@ -22,8 +20,8 @@ link: index.html
 				</ul>
 			</div></a>
 		</article>
-		<article>		
-			<i class="fas fa-virus-shield"></i>
+		<article>
+			<span class="icon"><img src="assets/images/chalkboard-teacher.svg" style="width: 100%; height:100%;"></span>		
 			<a href="schulung.html"><div class="content">
 				<h3>Schulungen</h3>
 				<ul>
@@ -54,7 +52,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon fas fa-biohazard"></span>
+		<span class="icon"><img src="assets/images/virus-slash.svg" style="width: 100%; height:100%;"></span>
 			<a href="schlussdesinfektion.html"><div class="content">
 				<h3>Schlussdesinfektion bei Infektionsgeschehen</h3>
 				<p>Durchf&uuml;hrung nach RKI-Richtlinien und Infektionsschutzgesetz</p>
