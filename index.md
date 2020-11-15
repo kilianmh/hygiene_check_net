@@ -10,7 +10,7 @@ link: index.html
 	</header>
 	<div class="features">
 		<article>
-			<span class="fas fa-virus-slash"></span>
+			<span class="icon fas fa-virus-slash"></span>
 			<a href="beratung.html"><div class="content">
 				<h3>Beratung</h3>
 				<ul>
@@ -21,7 +21,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon fas fa-virus-shield"></span>
+			<span class="icon fa-virus-shield"></span>
 			<a href="schulung.html"><div class="content">
 				<h3>Schulungen</h3>
 				<ul>
