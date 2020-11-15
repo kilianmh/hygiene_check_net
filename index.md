@@ -44,7 +44,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon fas fa-pump-medical"></span>
+		<span class="icon"><img src="assets/images/pump-medical.svg"></span>
 			<a href="plan.html"><div class="content">
 				<h3>Hygiene- /Desinfektionspläne</h3>
 				<ul>
