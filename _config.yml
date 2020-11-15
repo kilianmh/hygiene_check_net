@@ -1,11 +1,11 @@
 # Site settings
 title: hygiene-check.net
 subtitle: die Coronachecker
-email: susana.montoro.gmx.de
+email: services@hygiene-profis.net
 description: Ihre Hygienprofis
 baseurl: "/hygiene_check_net" # the subpath of your site, e.g. /blog
 url: "https://kilianmh.github.io" # the base hostname & protocol for your site
-author: Susana Montoro y Stingl
+author: Susana Montoro y Stingl, Joachim H&auml;mmerle
 street_address: Krummestraße 1B
 city: Schwanau
 state: Baden-Württemberg
