@@ -3641,7 +3641,7 @@
 		font-size: 0.9em;
 		position: relative;
 		width: 26em;
-		color: #fffff;
+		color: #ffffff;
 	}
 
 		#sidebar h2 {
@@ -3744,7 +3744,7 @@
 
 				#sidebar .toggle {
 					height: 6.25em;
-					left: 24em;
+					left: 25em;
 					line-height: 6.25em;
 					text-indent: 5em;
 					width: 5em;
@@ -3760,7 +3760,7 @@
 
 		}
 
-		    {
+		    
 
 			#sidebar {
 				width: 24em;
@@ -3792,8 +3792,7 @@
 				#sidebar.inactive {
 					margin-left: -24em;
 				}
-
-		}
+			
 
 		@media screen and (max-width: 1280px) {
 
@@ -4055,7 +4054,7 @@
 		user-select: none;
 		color: #ffffff;
 		font-family: "Roboto Slab", serif;
-		font-family: 400;
+		font-weight: 800;
 		letter-spacing: 0.075em;
 		list-style: none;
 		margin-bottom: 0;
