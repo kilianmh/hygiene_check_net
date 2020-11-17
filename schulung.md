@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Schulungen"
-categories: hauptseite
 link: schulung.html
 ---
 

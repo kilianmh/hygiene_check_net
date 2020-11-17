@@ -1,7 +1,5 @@
 ---
 layout: page
-author: "Kilian"
-categories: blog
 title: Kontakt
 link: contact.html
 ---
@@ -21,7 +19,7 @@ E-Mail: [susana.montoro@gmx.de](mailto:susana.montoro@gmx.de)
 Joachim B. H&auml;mmerle  
 Krummestraße 1b  
 77963 Schwanau  
-Telefon:  
+Telefon: 017684905674
 E-Mail: [jo.haemmerle@gmx.de](mailto:jo.haemmerle@gmx.de)
 
 ### Webmaster  

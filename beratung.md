@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Beratung im aktuellen Infektionsgeschehen
-categories: beratung, desinfektion
 link: beratung.html
 ---
 

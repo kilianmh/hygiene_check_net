@@ -1,7 +1,5 @@
 ---
 layout: page
-author: "Kilian"
-categories: blog
 title: Kontakt
 link: impressum.html
 ---

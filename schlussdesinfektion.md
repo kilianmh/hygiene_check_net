@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Schlussdesinfektion"
-categories: hauptartikel
 link: schlussdesinfektion.html
 ---
 
