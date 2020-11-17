@@ -1,8 +1,8 @@
 <!-- Formular -->
 <section>
-  <h2>
+  <h3>
     Unser Kontaktformular:
-  </h2>
+  </h3>
 	<div class="inner">
       <form action="https://formsubmit.co/kilian.haemmerle@protonmail.com" method="POST">
         <div class="container">
@@ -24,7 +24,8 @@
         <button type="submit">Anfrage abschicken</button>
         <!-- Versteckte Elemente -->
         <input type="hidden" name="_subject" value="Kontaktformular Hygiene-Check.Net">
-        <input type="text" name="_honey" style="display:none">
+        <input type="text" id="_honey" name="_honey" style="display:none">
+        <label for="_honey" style="visibility:hidden">Honey</label>
         <input type="hidden" name="_next" value="{{site.url}}{{site.baseurl}}/{{page.link}}">
         <input type="hidden" name="_autoresponse" value="Vielen Dank f&uuml;r Ihre Nachricht! Das Hygiene-Check.Net Team meldet sich in k&uuml;rze bei Ihnen.">
 
