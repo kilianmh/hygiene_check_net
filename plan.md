@@ -7,7 +7,7 @@ link: plan.html
 
 ### Hygienepläne nach dem fünf Punkte System
 
-![Gefährdungsbeurteilung](assets/images/assets/images/cartoon.jpg){: .image.right}
+![Cartoon](assets/images/cartoon.jpg){: .image.right}
 
 
 #### 1. Schritt: Analyse der Infektionsgefahren
