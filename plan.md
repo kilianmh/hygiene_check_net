@@ -7,6 +7,9 @@ link: plan.html
 
 ### Hygienepläne nach dem fünf Punkte System
 
+![Gefährdungsbeurteilung](assets/images/assets/images/cartoon.jpg){: .image.right}
+
+
 #### 1. Schritt: Analyse der Infektionsgefahren
 -   jede Einrichtung hat eigene Besonderheiten und Anforderungen im Hinblick auf besondere Hygienemaßnahmen.
 -   Erkennen der Schwachpunkte bzw. Risikobereiche

@@ -74,7 +74,7 @@ link: index.html
 			</ul>
 		</article>
 		<article>
-			<!-- <a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="image" target="_blank"><img src="" alt="gefahren durch desinfektionsmittel" /></a> -->
+			<a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="image" target="_blank"><img src="assets/images/cartoon.jpg" alt="gefahren durch desinfektionsmittel" /></a>
 			<h3>Gefahren durch Desinfektionsmittel</h3>
 			<ul class="actions">
 				<li><a href="https://www.fitbook.de/health/so-schaedlich-ist-desinfektionsgel-fuer-die-gesundheit" class="button" target="_blank">Mehr</a></li>

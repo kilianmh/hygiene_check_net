@@ -7,6 +7,9 @@ link: beratung.html
 
 ## Biologische Arbeitsstoffe
 
+![Optimales Desinfektionsmittel](assets/images/optimales_desinfektionsmittel.jpg){: .image.right}
+
+
 -   Biostoffe sind in der Biostoffverordnung abschließend definiert.
 
 -   Gemäß [§ 3 Einstufung von Biostoffen (BioStoffV)](https://www.gesetze-im-internet.de/biostoffv_2013/__3.html){:target="_blank"} in Risikogruppen werden biologische Arbeitsstoffe nach ihrem Infektionsrisiko in vier Risikogruppen eingeordnet.
@@ -14,6 +17,9 @@ link: beratung.html
 -   Bei bestimmten biologischen Arbeitsstoffen, welche in der [Richtlinie 2000/54/EG](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:262:0021:0045:DE:PDF){:target="_blank"} in Risiko­gruppe 3 eingestuft und mit zwei Sternchen (&#8727;) versehen wurden, ist das Infektionsrisiko für Arbeitnehmer begrenzt, da eine Übertragung über den Luftweg normalerweise nicht erfolgen kann. Diese werden zur Vereinfachung im Folgenden als biologische Arbeitsstoffe der „Risikogruppe 3(&#8727;)" bezeichnet. 
 
 ## Potenziell infektiöses Material
+
+![Erreger&uuml;bertragung](assets/images/erregeruebertragung.jpg){: .image.right}
+
 
 - Potenziell infektiöses Material ist Material, das Krankheitserreger enthalten und bei ent­ sprechender Exposition zu einer Infektion führen kann.
 

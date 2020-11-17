@@ -8,6 +8,9 @@ link: schulung.html
 Hygiene-Schulung nach neusten RKI Richtlinien: Infektionsschutzgesetz und Arbeitsschutz nach TRBA 250.
 
 **Hände-Hygiene Angestellte:**  
+
+![Fingerspitzen](assets/images/fingerspitzen.jpg){: .image.right}
+
 - Die fünf Regeln der Händehygiene.  
 - Wann, wie, womit.  
 - Anwendungsfehler und allgemeines was es zu beachten gibt.  
