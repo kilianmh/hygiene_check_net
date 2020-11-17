@@ -19,4 +19,4 @@ Die Beurteilung muss so durchgeführt und dokumentiert werden, dass die getroffe
 
 Auszüge aus TRGS 400 (Fassung 08.09.2017)
 
-![Gefährdungsbeurteilung](assets/images/gefaehrdungsbeurteilung _clipart.png){: .image.fit}
+![Gefährdungsbeurteilung](assets/images/gefaehrdungsbeurteilung _clipart.png){: .image.right}
