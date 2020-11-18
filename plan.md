@@ -6,8 +6,7 @@ link: plan.html
 
 ### Hygienepläne nach dem fünf Punkte System
 
-![Cartoon](assets/images/cartoon.jpg){: .image.right}
-
+{% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/cartoon.jpg)" description="Cartoon" %}
 
 #### 1. Schritt: Analyse der Infektionsgefahren
 -   jede Einrichtung hat eigene Besonderheiten und Anforderungen im Hinblick auf besondere Hygienemaßnahmen.

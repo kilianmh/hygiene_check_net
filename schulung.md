@@ -8,7 +8,7 @@ Hygiene-Schulung nach neusten RKI Richtlinien: Infektionsschutzgesetz und Arbeit
 
 **Hände-Hygiene Angestellte:**  
 
-![Fingerspitzen](assets/images/fingerspitzen.jpg){: .image.right}
+{% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/fingerspitzen.jpg)" description="Fingerspitzen" %}
 
 - Die fünf Regeln der Händehygiene.  
 - Wann, wie, womit.  

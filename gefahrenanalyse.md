@@ -4,7 +4,7 @@ title:  "Gefahrenanalyse"
 link: gefahrenanalyse.html
 ---
 
-{% include image_click.html direction="right" url="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/gefaehrdungsbeurteilung_clipart.png" description="Gef&auml;hrdungsbeurteilung" %}
+{% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/gefaehrdungsbeurteilung_clipart.png" description="Gef&auml;hrdungsbeurteilung" %}
  
 
 ## 1
