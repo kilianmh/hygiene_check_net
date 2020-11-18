@@ -2123,7 +2123,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: var(--colorIcons);
+		color: var(--colorText);
 		text-decoration: none;
 		font-weight: 800;
 	}
@@ -3671,7 +3671,7 @@
 		}
 
 			#sidebar > .inner > * {
-				border-bottom: solid 2px var(--colorIcons);
+				border-bottom: solid 3px var(--colorIcons);
 				margin: 0 0 3.5em 0;
 				padding: 0 0 3.5em 0;
 			}
