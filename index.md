@@ -10,7 +10,7 @@ link: index.html
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon filterOrange"><img src="assets/images/shield-virus.svg" style="width: 100%; height:100%;" alt="Virus-Schild"></span>
+			<span class="icon.filterOrange"><img src="assets/images/shield-virus.svg" style="width: 100%; height:100%;" alt="Virus-Schild"></span>
 			<a href="beratung.html"><div class="content">
 				<h3>Beratung</h3>
 				<ul>
@@ -21,7 +21,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon filterOrange"><img src="assets/images/chalkboard-teacher.svg" style="width: 100%; height:100%;" alt="Lehrer-Tafel" class="filter-orange"></span>		
+			<span class="icon.filterOrange"><img src="assets/images/chalkboard-teacher.svg" style="width: 100%; height:100%;" alt="Lehrer-Tafel" class="filter-orange"></span>		
 			<a href="schulung.html"><div class="content">
 				<h3>Schulungen</h3>
 				<ul>
@@ -34,14 +34,14 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-			<span class="icon filterOrange"><img src="assets/images/viruses.svg" style="width: 100%; height:100%;" alt="Virus"></span>		
+			<span class="icon.filterOrange"><img src="assets/images/viruses.svg" style="width: 100%; height:100%;" alt="Virus"></span>		
 			<a href="gefahrenanalyse.html"><div class="content">
 				<h3>Gefahrenanalyse</h3>
 				<p>Individuelle Gefahrenanalyse zur Verhinderung von Covid19</p>
 			</div></a>
 		</article>
 		<article>
-		<span class="icon filterOrange"><img src="assets/images/pump-medical.svg" style="width: 100%; height:100%;" alt="Medizin-Spender"></span>
+		<span class="icon.filterOrange"><img src="assets/images/pump-medical.svg" style="width: 100%; height:100%;" alt="Medizin-Spender"></span>
 			<a href="plan.html"><div class="content">
 				<h3>Hygiene- /Desinfektionspläne</h3>
 				<ul>
@@ -51,7 +51,7 @@ link: index.html
 			</div></a>
 		</article>
 		<article>
-		<span class="icon filterOrange"><img src="assets/images/virus-slash.svg" style="width: 100%; height:100%;" alt="Virus-Gestrichen"></span>
+		<span class="icon.filterOrange"><img src="assets/images/virus-slash.svg" style="width: 100%; height:100%;" alt="Virus-Gestrichen"></span>
 			<a href="schlussdesinfektion.html"><div class="content">
 				<h3>Schlussdesinfektion bei Infektionsgeschehen</h3>
 				<p>Durchf&uuml;hrung nach RKI-Richtlinien und Infektionsschutzgesetz</p>
