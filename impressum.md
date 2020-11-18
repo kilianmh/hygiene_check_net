@@ -16,10 +16,10 @@ Krummestr. 1B
 Telefon: +4917684905537  
 E-Mail: susana.montoro@protonmail.com
 
-## Berufsbezeichnung und berufsrechtliche Regelungen
+<!-- ## Berufsbezeichnung und berufsrechtliche Regelungen
 
 Berufsbezeichnung: Desinfektor  
-<!-- Zuständige Kammer:  
+Zuständige Kammer:  
 Verliehen in:  
 Es gelten folgende berufsrechtliche Regelungen:  
 Regelungen einsehbar unter: [http://](http://) -->

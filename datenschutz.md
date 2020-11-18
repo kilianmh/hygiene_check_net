@@ -468,6 +468,3 @@ folgenden Links:
 [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de)
 und
 [https://policies.google.com/terms?hl=de](https://policies.google.com/terms?hl=de).
-
-Quelle:
-[https://www.e-recht24.de/muster-datenschutzerklaerung.html](https://www.e-recht24.de/muster-datenschutzerklaerung.html)
