@@ -4,8 +4,8 @@ layout: page
 link: datenschutz.html
 ---
 
-1. Datenschutz auf einen Blick
-------------------------------
+## Datenschutz auf einen Blick
+
 
 ### Allgemeine Hinweise
 
@@ -66,8 +66,9 @@ Analyseprogrammen.
 Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in der
 folgenden Datenschutzerklärung.
 
-2. Hosting und Content Delivery Networks (CDN)
-----------------------------------------------
+
+## Hosting und Content Delivery Networks (CDN)
+
 
 ### Externes Hosting
 
@@ -95,8 +96,9 @@ GitHub, Inc., \
  St, San Francisco, CA 94107, \
  United States
 
-3. Allgemeine Hinweise und Pflicht­informationen
-------------------------------------------------
+
+## Allgemeine Hinweise und Pflicht­informationen
+
 
 ### Datenschutz
 
@@ -274,8 +276,8 @@ Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im
 Falle der unverlangten Zusendung von Werbeinformationen, etwa durch
 Spam-E-Mails, vor.
 
-4. Datenerfassung auf dieser Website
-------------------------------------
+
+## Datenerfassung auf dieser Website
 
 ### Server-Log-Dateien
 
@@ -312,7 +314,7 @@ https://formsubmit.co/privacy.pdf
 weitergehende Informationen zu dem allgemeinen Umgang mit Ihren Nutzerdaten an.
 
 
-Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1
+Die Verarbeitung der Daten erfolgt auf Grundlage von Art. 6 Abs. 1
 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags
 zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen
 erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf
@@ -349,8 +351,9 @@ Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt
 gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen
 – bleiben unberührt.
 
-5. Newsletter
--------------
+
+## Newsletter
+
 
 ### Newsletter­daten
 
@@ -389,8 +392,9 @@ Versand von Newslettern (berechtigtes Interesse im Sinne des Art. 6 Abs.
 befristet. **Sie können der Speicherung widersprechen, sofern Ihre
 Interessen unser berechtigtes Interesse überwiegen.**
 
-6. Plugins und Tools
---------------------
+
+## Plugins und Tools
+
 
 ### Font Awesome (lokales Hosting)
 
