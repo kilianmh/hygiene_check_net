@@ -6,7 +6,7 @@ link: beratung.html
 
 ## Biologische Arbeitsstoffe
 
-{% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/optimales_desinfektionsmittel.jpg)" description="Optimales Desinfektionsmittel" %}
+{% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/optimales_desinfektionsmittel.jpg" description="Optimales Desinfektionsmittel" %}
 
 
 -   Biostoffe sind in der Biostoffverordnung abschließend definiert.
@@ -17,7 +17,7 @@ link: beratung.html
 
 ## Potenziell infektiöses Material
 
-{% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/erregeruebertragung.jpg)" description="Erreger&uuml;bertragung" %}
+{% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/erregeruebertragung.jpg" description="Erreger&uuml;bertragung" %}
 
 - Potenziell infektiöses Material ist Material, das Krankheitserreger enthalten und bei ent­ sprechender Exposition zu einer Infektion führen kann.
 
