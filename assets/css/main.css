@@ -23,7 +23,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-		color: #ffffff;
+		color: var(--colorText);
 	}
 
 
@@ -2083,7 +2083,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #ffffff;
+		color: var(--colorText);
 		font-family: "Open Sans", sans-serif;
 		font-size: 13pt;
 		font-weight: 400;
@@ -2121,13 +2121,13 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #f56a6a;
+		color: var(--colorIcons);
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: #f56a6a;
-			color: #f56a6a !important;
+			border-bottom-color: var(--colorIcons);
+			color: var(--colorIcons); !important;
 		}
 
 			a:hover strong {
@@ -2135,7 +2135,7 @@
 			}
 
 	strong, b {
-		color: #ffffff;
+		color: var(--colorText);
 		font-weight: 600;
 	}
 
@@ -2148,7 +2148,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: var(--colorText);
 		font-family: "Roboto Slab", serif;
 		font-weight: 700;
 		line-height: 1.5;
@@ -2156,7 +2156,7 @@
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: #ffffff;
+			color: var(--colorText);
 			text-decoration: none;
 		}
 
@@ -2310,14 +2310,14 @@
 
 	form {
 		margin: 0 0 2em 0;
-		color: #ffffff;
+		color: var(--colorText);
 	}
 
 	.container{
 		display: grid;
 		grid-gap: 10px;
 		grid-template-columns: [label] auto [input] 1fr;
-		color: #ffffff;
+		color: var(--colorText);
 	}
 
 	input {
@@ -2344,7 +2344,7 @@
 	  }
 
 	label {
-		color: #ffffff;
+		color: var(--colorText);
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
@@ -2397,8 +2397,8 @@
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: var(--colorIcons);
+			box-shadow: 0 0 0 1px var(--colorIcons);
 		}
 
 	.select-wrapper {
@@ -2460,13 +2460,13 @@
 		opacity: 0;
 		width: 1em;
 		z-index: -1;
-		color: #ffffff;
+		color: var(--colorText);
 	}
 
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #ffffff;
+			color: var(--colorText);
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -2506,14 +2506,14 @@
 		input[type="radio"]:checked + label:before {
 			background: #3d4449;
 			border-color: #3d4449;
-			color: #ffffff;
+			color: var(--colorText);
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: var(--colorIcons);
+			box-shadow: 0 0 0 1px var(--colorIcons);
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2747,7 +2747,7 @@
 				}
 
 				ul.contact li:before {
-					color: #f56a6a;
+					color: var(--colorIcons);
 					display: inline-block;
 					font-size: 1.5em;
 					height: 1.125em;
@@ -2871,16 +2871,16 @@
 				}
 
 					ul.pagination li > .page.active {
-						background-color: #f56a6a;
-						color: #ffffff !important;
+						background-color: var(--colorIcons);
+						color: var(--colorText) !important;
 					}
 
 						ul.pagination li > .page.active:hover {
-							background-color: #f67878;
+							background-color: var(--colorIcons);
 						}
 
 						ul.pagination li > .page.active:active {
-							background-color: #f45c5c;
+							background-color: var(--colorIcons);
 						}
 
 				ul.pagination li:first-child {
@@ -3003,8 +3003,8 @@
 		background-color: transparent;
 		border-radius: 0.375em;
 		border: 0;
-		box-shadow: inset 0 0 0 2px #f56a6a;
-		color: #f56a6a !important;
+		box-shadow: inset 0 0 0 2px var(--colorIcons);
+		color: var(--colorIcons); !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Roboto Slab", serif;
@@ -3077,9 +3077,9 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #f56a6a;
+			background-color: var(--colorIcons);
 			box-shadow: none;
-			color: #ffffff !important;
+			color: var(--colorText) !important;
 		}
 
 			input[type="submit"].special:hover,
@@ -3087,7 +3087,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #f67878;
+				background-color: var(--colorIcons);
 			}
 
 			input[type="submit"].special:active,
@@ -3095,7 +3095,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #f45c5c;
+				background-color: var(--colorIcons);
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3198,7 +3198,7 @@
 			}
 
 				.features article .icon:before {
-					color: #f56a6a;
+					color: var(--colorIcons);
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3652,7 +3652,7 @@
 		font-size: 0.9em;
 		position: relative;
 		width: 26em;
-		color: #ffffff;
+		color:var(--colorText);
 	}
 
 		#sidebar h2 {
@@ -3682,7 +3682,7 @@
 				}
 
 			#sidebar > .inner > .alt {
-				background-color: #eff1f2;
+				background-color: var(--colorText);
 				border-bottom: 0;
 				margin: -2.22222em 0 4.44444em -2.22222em;
 				padding: 2.22222em;
@@ -3888,7 +3888,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #f56a6a;
+		border-bottom: solid 5px var(--colorIcons);
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
@@ -3903,7 +3903,7 @@
 
 		#header .logo {
 			border-bottom: 0;
-			color: #ffffff;
+			color: var(--colorText);
 			font-family: "Roboto Slab", serif;
 			font-size: 1.125em;
 		}
@@ -4048,7 +4048,7 @@
 /* Footer */
 
 	#footer .copyright {
-		color: #9fa3a6;
+		color: var(--colorText);
 		font-size: 0.9em;
 	}
 
@@ -4063,7 +4063,7 @@
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		color: #ffffff;
+		color: var(--colorText);
 		font-family: "Roboto Slab", serif;
 		font-weight: 800;
 		letter-spacing: 0.075em;
@@ -4075,7 +4075,7 @@
 
 		#menu ul a, #menu ul span {
 			border-bottom: 0;
-			color: #ffffff;
+			color: var(--colorText);
 			cursor: pointer;
 			display: block;
 			font-size: 0.9em;
@@ -4083,7 +4083,7 @@
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: var(--colorIcons);
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -4117,7 +4117,7 @@
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #f56a6a;
+					color: var(--colorIcons);
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
