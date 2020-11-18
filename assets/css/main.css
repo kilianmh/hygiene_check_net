@@ -2084,7 +2084,7 @@
 
 	body, input, select, textarea {
 		color: var(--colorText);
-		font-family: "Open Sans", sans-serif;
+		font-family: "Alice", sans-serif;
 		font-size: 13pt;
 		font-weight: 400;
 		line-height: 1.65;
