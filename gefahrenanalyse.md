@@ -4,13 +4,7 @@ title:  "Gefahrenanalyse"
 link: gefahrenanalyse.html
 ---
 
- <input id="clickbutton" type="button" value="Click" onclick="showimage()" />
-
-
-<img data-enlargeable width="100" style="cursor: zoom-in"  src="https://upload.wikimedia.org/wikipedia/commons/3/39/Lichtenstein_img_processing_test.png" />
-
-
-![Gefährdungsbeurteilung](assets/images/gefaehrdungsbeurteilung _clipart.png){: .image.right}
+<img data-enlargeable width="100" style="cursor: zoom-in; text-align:center; font-weight:800;"  src="assets/images/gefaehrdungsbeurteilung _clipart.png" class=".image.right" />
 
 ## 1
 Die mit den Tätigkeiten verbundenen inhalativen (Einatmen),dermalen (Hautkontakt),Physikalisch-chemisch (z.B. Brandgefährdung) und sonstigen durch den Gefahrstoff bedingten Gefährdungen, wie z.B. durch Temperatur oder Druck sind zu beurteilen.
