@@ -4,10 +4,8 @@ title:  "Gefahrenanalyse"
 link: gefahrenanalyse.html
 ---
 
-<div class=".image.right">
-<img data-enlargeable width="100" style="cursor: zoom-in; text-align:center; font-weight:800;"  src="assets/images/gefaehrdungsbeurteilung _clipart.png" />
-<h3>Clipart</h3>
-</div>
+<img data-enlargeable width="100" style="cursor: zoom-in;"  src="assets/images/gefaehrdungsbeurteilung _clipart.png" />
+
 
 ## 1
 Die mit den Tätigkeiten verbundenen inhalativen (Einatmen),dermalen (Hautkontakt),Physikalisch-chemisch (z.B. Brandgefährdung) und sonstigen durch den Gefahrstoff bedingten Gefährdungen, wie z.B. durch Temperatur oder Druck sind zu beurteilen.
