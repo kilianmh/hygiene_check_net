@@ -3170,6 +3170,7 @@
 			.features article:nth-last-child(1), .features article:nth-last-child(2) {
 				margin-bottom: 0;
 			}
+			
 
 			.features article .icon {
 				-moz-flex-grow: 0;
@@ -3211,6 +3212,10 @@
 					top: 50%;
 					width: 7em;
 				}
+
+			.features article .filterOrange {
+				filter: invert(65%) sepia(47%) saturate(4121%) hue-rotate(1deg) brightness(105%) contrast(103%);
+			}
 
 			.features article .content {
 				-moz-flex-grow: 1;
