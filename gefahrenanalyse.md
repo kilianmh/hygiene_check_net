@@ -4,6 +4,8 @@ title:  "Gefahrenanalyse"
 link: gefahrenanalyse.html
 ---
 
+![Gefährdungsbeurteilung](assets/images/gefaehrdungsbeurteilung _clipart.png){: .image.right}
+
 ## 1
 Die mit den Tätigkeiten verbundenen inhalativen (Einatmen),dermalen (Hautkontakt),Physikalisch-chemisch (z.B. Brandgefährdung) und sonstigen durch den Gefahrstoff bedingten Gefährdungen, wie z.B. durch Temperatur oder Druck sind zu beurteilen.
 
@@ -18,4 +20,3 @@ Die Beurteilung muss so durchgeführt und dokumentiert werden, dass die getroffe
 
 Auszüge aus TRGS 400 (Fassung 08.09.2017)
 
-![Gefährdungsbeurteilung](assets/images/gefaehrdungsbeurteilung _clipart.png){: .image.right}<br>
