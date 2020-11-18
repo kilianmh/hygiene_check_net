@@ -4,3 +4,6 @@
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/util.js"></script>
 <!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>
+{% if page.modal01 %}
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/{{ page.modal01 }}"></script>
+{% endif %}

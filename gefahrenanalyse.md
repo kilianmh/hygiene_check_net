@@ -1,8 +1,10 @@
 ---
 layout: page
 title:  "Gefahrenanalyse"
+styleImgModal01: img_modal.css
 link: gefahrenanalyse.html
 ---
+{% include image_modal.html srcImg="fingerspitzen.jpg" altImg="Fingerspitzen" direction="right" idImg="idImg_finger" style01="img_modal.css" script01="modal_img_script.html" idModal="idModalFingerspitzen" idModalImg="idModalImgFingerspitzen" idCaption="idCaptionFingerspitzen" %}
 
 ![Gefährdungsbeurteilung](assets/images/gefaehrdungsbeurteilung _clipart.png){: .image.right}
 
