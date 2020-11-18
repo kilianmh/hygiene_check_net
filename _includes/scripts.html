@@ -1,15 +1,38 @@
 <!-- Scripts -->
 <!-- <script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.min.js"></script> -->
-<script src="https://ajax.googleapis.com/ajax/libs/j>query/3.5.1/jquery.min.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/skel.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/util.js"></script>
 <!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>
 
+<script>
+$('img[data-enlargeable]').addClass('img-enlargeable').click(function(){
+    var src = $(this).attr('src');
+    var modal;
+    function removeModal(){ modal.remove(); $('body').off('keyup.modal-close'); }
+    modal = $('<div>').css({
+        background: 'RGBA(0,0,0,.5) url('+src+') no-repeat center',
+        backgroundSize: 'contain',
+        width:'100%', height:'100%',
+        position:'fixed',
+        zIndex:'10000',
+        top:'0', left:'0',
+        cursor: 'zoom-out'
+    }).click(function(){
+        removeModal();
+    }).appendTo('body');
+    //handling ESC
+    $('body').on('keyup.modal-close', function(e){
+      if(e.key==='Escape'){ removeModal(); } 
+    });
+});
+</script>
+
 <script type="text/javascript">
     function showimage()
     {
-        $("body").css("background-image","url('images/test.png')"); // Onclick of button the background image of body will be test here. Give the image path in url
+        $("body").css("background-image","url('assets/images/gruppe.jpg')"); // Onclick of button the background image of body will be test here. Give the image path in url
         $('#clickbutton').hide(); //This will hide the button specified in html
     }
     </script>
