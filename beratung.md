@@ -19,9 +19,9 @@ link: beratung.html
 
 - Potenziell infektiöses Material ist Material, das Krankheitserreger enthalten und bei ent­ sprechender Exposition zu einer Infektion führen kann.
 
-- Dabei handelt es sich erfahrungsgemäß um • Körperflüssigkeiten, z. B. Blut, Speichel, Körperausscheidungen, z. B. Stuhl oder • Körpergewebe.
-
 {% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/erregeruebertragung.jpg" description="Erreger&uuml;bertragung" %}
+
+- Dabei handelt es sich erfahrungsgemäß um • Körperflüssigkeiten, z. B. Blut, Speichel, Körperausscheidungen, z. B. Stuhl oder • Körpergewebe.
 
 - Arbeitsbereiche sind Bereiche, in denen Tätigkeiten mit biologischen Arbeitsstoffen durch­ geführt werden. Zum Arbeitsbereich können auch häusliche Bereiche zählen, z. B. Tätigkeits­bereiche von Pflegediensten in Privatwohnungen und beim betreuten Wohnen.
 
