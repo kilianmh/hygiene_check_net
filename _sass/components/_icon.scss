@@ -15,3 +15,7 @@
 			display: none;
 		}
 	}
+
+	.filterOrange {
+		filter: invert(65%) sepia(47%) saturate(4121%) hue-rotate(1deg) brightness(105%) contrast(103%);
+	}
