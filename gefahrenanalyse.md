@@ -4,6 +4,8 @@ title:  "Gefahrenanalyse"
 link: gefahrenanalyse.html
 ---
 
+<img data-enlargeable width="100" style="cursor: zoom-in"  src="https://upload.wikimedia.org/wikipedia/commons/3/39/Lichtenstein_img_processing_test.png" />
+
 ![Gefährdungsbeurteilung](assets/images/gefaehrdungsbeurteilung _clipart.png){: .image.right}
 
 ## 1
