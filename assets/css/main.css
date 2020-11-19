@@ -3726,7 +3726,7 @@
 			top: 0;
 			width: 6em;
 			z-index: 10000;
-			color:var(--colorToggle);
+			color:var(--colorIcons);
 		}
 
 			#sidebar .toggle:before {
@@ -3888,7 +3888,7 @@
 				}
 
 				#sidebar .toggle:after {
-					background: var(--colorToggle);
+					background: var(--colorBackground);
 					border-radius: 0.375em;
 					content: '';
 					height: 3.5em;
