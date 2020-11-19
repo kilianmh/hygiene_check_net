@@ -102,7 +102,7 @@
 			z-index: _misc(z-index-base);
 
 			&:before {
-				content: '\f0c9';
+				content: 'url(assets/images/arrow-circle-left.svg)';
 				font-size: 2rem;
 				height: inherit;
 				left: 0;
@@ -111,11 +111,13 @@
 				text-indent: 0;
 				top: 0;
 				width: inherit;
+
 			}
 		}
 
 		&.inactive {
 			margin-left: (_size(sidebar-width) * -1);
+			content: 'url(assets/images/arrow-circle-right.svg)';
 		}
 
 		@include breakpoint(xlarge) {
