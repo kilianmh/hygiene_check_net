@@ -3739,7 +3739,7 @@
 			}
 
 			#sidebar .toggle:before {
-				content: '\f0c9';
+				content: '\f0a9';
 				font-size: 2rem;
 				height: inherit;
 				left: 0;
@@ -3752,6 +3752,7 @@
 
 		#sidebar.inactive {
 			margin-left: -26em;
+			content: '\f0a8';
 		}
 
 		@media screen and (max-width: 1920px) {
@@ -3879,7 +3880,7 @@
 			}
 
 				#sidebar .toggle:before {
-					color: #7f888f;
+					color: var(--colorToggle);
 					margin-left: -0.0625em;
 					margin-top: -0.25em;
 					font-size: 1.1rem;
@@ -3887,7 +3888,7 @@
 				}
 
 				#sidebar .toggle:after {
-					background: rgba(222, 225, 226, 0.75);
+					background: var(--colorToggle);
 					border-radius: 0.375em;
 					content: '';
 					height: 3.5em;
