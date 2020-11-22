@@ -3729,10 +3729,8 @@
 				font-weight: normal;
 				text-transform: none !important;
 				color:var(--colorToggle);
-			}
 
-			#sidebar .toggle:before {
-				content: '\f0a9';
+				content: '\f0a8';
 				font-size: 2rem;
 				height: inherit;
 				left: 0;
@@ -3742,6 +3740,7 @@
 				top: 0;
 				width: inherit;
 			}
+
 
 			#sidebar .toggle:after {
 				transform: '\f0a9';
