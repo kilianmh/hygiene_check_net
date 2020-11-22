@@ -3716,7 +3716,7 @@
 			top: 0;
 			width: 6em;
 			z-index: 10000;
-			
+			content: '\f0a9';
 			
 			
 		}
@@ -3730,7 +3730,6 @@
 				text-transform: none !important;
 				color:var(--colorToggle);
 
-				content: '\f0a9';
 				font-size: 2rem;
 				height: inherit;
 				left: 0;
@@ -3750,8 +3749,8 @@
 				font-weight: normal;
 				text-transform: none !important;
 				color:var(--colorToggle);
-
-				content: '\f0a8';
+				transform: rotate(-180deg);
+				/* content: '\f0a8'; */
 				font-size: 2rem;
 				height: inherit;
 				left: 0;
@@ -3764,7 +3763,6 @@
 
 		#sidebar.inactive {
 			margin-left: -26em;
-			content: '\f0a8';
 		}
 
 		@media screen and (max-width: 1680px) {
