@@ -3721,7 +3721,7 @@
 			
 		}
 
-			#sidebar .toggle:before {
+			#sidebar .toggle::before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				font-family: FontAwesome;
@@ -3742,7 +3742,7 @@
 			}
 
 
-			#sidebar .toggle:after {
+			#sidebar .toggle::after {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				font-family: FontAwesome;
@@ -3789,10 +3789,9 @@
 					line-height: 6.25em;
 					text-indent: 5em;
 					width: 5em;
-					color:var(--colorToggle);
 				}
 
-					#sidebar .toggle:before {
+					#sidebar .toggle::before {
 						font-size: 1.5rem;
 					}
 
@@ -3841,7 +3840,7 @@
 					color:var(--colorToggle);
 				}
 
-					#sidebar .toggle:before {
+					#sidebar .toggle::before {
 						font-size: 1.5rem;
 						margin-left: -0.4375em;
 					}
@@ -3860,14 +3859,14 @@
 				color:var(--colorToggle);
 			}
 
-				#sidebar .toggle:before {
+				#sidebar .toggle::before {
 					margin-left: -0.0625em;
 					margin-top: -0.25em;
 					font-size: 1.1rem;
 					z-index: 1;
 				}
 
-				#sidebar .toggle:after {
+				#sidebar .toggle::after {
 					border-radius: 0.375em;
 					height: 3.5em;
 					left: 1em;
