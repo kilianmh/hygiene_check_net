@@ -3851,12 +3851,12 @@
 				}
 
 					#sidebar .toggle:before {
-						font-size: 1.5rem;
-						margin-left: -0.4375em;
+						font-size: 3.5rem;
+						/* margin-left: -0.4375em; */
 					}
 
 				body.is-loading #sidebar {
-					display: none;
+					display: block;
 				}
 
 		}
