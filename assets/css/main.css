@@ -3764,7 +3764,7 @@
 
 		#sidebar.inactive {
 			margin-left: -26em;
-			transform: rotate(90deg);
+			
 		}
 
 		@media screen and (max-width: 1680px) {
