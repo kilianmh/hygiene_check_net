@@ -3810,6 +3810,12 @@
 
 					#sidebar .toggle:before {
 						font-size: 1.5rem;
+						content: '\f060';
+					}
+
+					#sidebar .toggle:after {
+						font-size: 1.5rem;
+						content: '\f061';
 					}
 
 				#sidebar.inactive {
@@ -3882,7 +3888,6 @@
 				}
 
 				#sidebar .toggle:after {
-					background: rgba(222, 225, 226, 0.75);
 					border-radius: 0.375em;
 					content: '';
 					height: 3.5em;
