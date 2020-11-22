@@ -11,7 +11,7 @@ link: beratung.html
 
 -   Biostoffe sind in der Biostoffverordnung abschließend definiert.
 
--   Gemäß [§ 3 Einstufung von Biostoffen (BioStoffV)](https://www.gesetze-im-internet.de/biostoffv_2013/__3.html){:target="_blank"} in Risikogruppen werden biologische Arbeitsstoffe nach ihrem Infektionsrisiko in vier Risikogruppen eingeordnet.
+-   Gemäß [§ 3 Einstufung von Biostoffen (BioStoffV)](https://www.gesetze-im-internet.de/biostoffv_2013/__3.html){:target="_blank"}{:title="die Exposition der Beschäftigten durch geeignete bauliche, technische und organisatorische Maßnahmen auf ein Minimum zu reduzieren, wenn eine Gefährdung der Beschäftigten nicht durch eine Maßnahme nach Nummer 1 oder Nummer 2 verhindert werden kann oder die Biostoffe bestimmungsgemäß freigesetzt werden,"} in Risikogruppen werden biologische Arbeitsstoffe nach ihrem Infektionsrisiko in vier Risikogruppen eingeordnet.
 
 -   Bei bestimmten biologischen Arbeitsstoffen, welche in der [Richtlinie 2000/54/EG](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:262:0021:0045:DE:PDF){:target="_blank"} in Risiko­gruppe 3 eingestuft und mit zwei Sternchen (&#8727;) versehen wurden, ist das Infektionsrisiko für Arbeitnehmer begrenzt, da eine Übertragung über den Luftweg normalerweise nicht erfolgen kann. Diese werden zur Vereinfachung im Folgenden als biologische Arbeitsstoffe der „Risikogruppe 3(&#8727;)" bezeichnet. 
 
