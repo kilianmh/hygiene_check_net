@@ -3716,7 +3716,9 @@
 			top: 0;
 			width: 6em;
 			z-index: 10000;
-			color:var(--colorToggle);
+			
+			
+			
 		}
 
 			#sidebar .toggle:before {
@@ -3726,6 +3728,7 @@
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
+				color:var(--colorToggle);
 			}
 
 			#sidebar .toggle:before {
@@ -3767,6 +3770,7 @@
 					line-height: 6.25em;
 					text-indent: 5em;
 					width: 5em;
+					color:var(--colorToggle);
 				}
 
 					#sidebar .toggle:before {
@@ -3848,6 +3852,7 @@
 				#sidebar .toggle {
 					text-indent: 6em;
 					width: 6em;
+					color:var(--colorToggle);
 				}
 
 					#sidebar .toggle:before {
@@ -3866,10 +3871,10 @@
 			#sidebar .toggle {
 				text-indent: 7.25em;
 				width: 7.25em;
+				color:var(--colorToggle);
 			}
 
 				#sidebar .toggle:before {
-					color: #7f888f;
 					margin-left: -0.0625em;
 					margin-top: -0.25em;
 					font-size: 1.1rem;
