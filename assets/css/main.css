@@ -3717,6 +3717,7 @@
 			width: 6em;
 			z-index: 10000;
 			color:var(--colorToggle);
+			content: '\f0c9';
 		}
 
 			#sidebar .toggle:before {
@@ -3797,6 +3798,7 @@
 					}
 
 				#sidebar .toggle {
+					content: '\f0c9';
 					height: 6.25em;
 					left: 24em;
 					line-height: 6.25em;
