@@ -29,6 +29,7 @@
 		font: inherit;
 		vertical-align: baseline;
 		color: var(--colorText);
+		word-break: normal;
 	}
 
 
