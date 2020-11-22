@@ -29,6 +29,7 @@
 		font: inherit;
 		vertical-align: baseline;
 		color: var(--colorText);
+		word-break: normal;
 	}
 
 
@@ -2089,7 +2090,7 @@
 
 	body, input, select, textarea {
 		color: var(--colorText);
-		font-family: var(--mainFont)
+		font-family: var(--mainFont);
 		font-size: 13pt;
 		font-weight: 400;
 		line-height: 1.65;
@@ -2133,7 +2134,7 @@
 
 		a:hover {
 			border-bottom-color: var(--colorIcons);
-			color: var(--colorIcons); !important;
+			color: var(--colorIcons) !important;
 		}
 
 			a:hover strong {
@@ -2156,7 +2157,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: var(--colorText);
-		font-family: var(--mainFont)
+		font-family: var(--mainFont);
 		font-weight: 700;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -2245,7 +2246,7 @@
 		background: rgba(230, 235, 237, 0.25);
 		border-radius: 0.375em;
 		border: solid 1px rgba(210, 215, 217, 0.75);
-		font-family: var(--mainFont)
+		font-family: var(--mainFont);
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -2253,7 +2254,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: var(--mainFont)
+		font-family: var(--mainFont);
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -2294,7 +2295,7 @@
 	}
 
 	header p {
-		font-family: var(--mainFont)
+		font-family: var(--mainFont);
 		font-size: 1em;
 		font-weight: 400;
 		letter-spacing: 0.075em;
@@ -3011,10 +3012,10 @@
 		border-radius: 0.375em;
 		border: 0;
 		box-shadow: inset 0 0 0 2px var(--colorIcons);
-		color: var(--colorIcons); !important;
+		color: var(--colorIcons) !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: var(--mainFont)
+		font-family: var(--mainFont);
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.5em;
@@ -3879,7 +3880,7 @@
 		#header .logo {
 			border-bottom: 0;
 			color: var(--colorText);
-			font-family: var(--mainFont)
+			font-family: var(--mainFont);
 			font-size: 1.125em;
 		}
 
@@ -4039,7 +4040,7 @@
 		-ms-user-select: none;
 		user-select: none;
 		color: var(--colorText);
-		font-family: var(--mainFont)
+		font-family: var(--mainFont);
 		font-weight: 800;
 		letter-spacing: 0.075em;
 		list-style: none;
