@@ -3764,6 +3764,7 @@
 
 		#sidebar.inactive {
 			margin-left: -26em;
+			content: '\f0a8';
 		}
 
 		@media screen and (max-width: 1680px) {
