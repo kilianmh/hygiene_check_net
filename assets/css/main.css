@@ -3716,7 +3716,7 @@
 			top: 0;
 			width: 5em;
 			z-index: 10000;
-			color:var(--colorToggle);
+			color: var(--colorToggle);
 		}
 
 			#sidebar .toggle:before {
@@ -3774,9 +3774,9 @@
 						font-size: 3rem;
 					}
 
-				/* #sidebar.inactive {
+				#sidebar.inactive {
 					margin-left: -24em;
-				} */
+				}
 
 		}
 
@@ -3846,9 +3846,7 @@
 				}
 
 				#sidebar .toggle:after {
-					background: rgba(222, 225, 226, 0.75);
 					border-radius: 0.375em;
-					content: '';
 					height: 3.5em;
 					left: 1em;
 					position: absolute;
