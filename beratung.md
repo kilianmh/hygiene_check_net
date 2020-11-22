@@ -11,7 +11,7 @@ link: beratung.html
 
 -   Biostoffe sind in der Biostoffverordnung abschließend definiert.
 
--   Gemäß [§ 3 Einstufung von Biostoffen (BioStoffV)](https://www.gesetze-im-internet.de/biostoffv_2013/__3.html){:target="_blank"}{:title="die Exposition der Beschäftigten durch geeignete bauliche, technische und organisatorische Maßnahmen auf ein Minimum zu reduzieren, wenn eine Gefährdung der Beschäftigten nicht durch eine Maßnahme nach Nummer 1 oder Nummer 2 verhindert werden kann oder die Biostoffe bestimmungsgemäß freigesetzt werden,"} in Risikogruppen werden biologische Arbeitsstoffe nach ihrem Infektionsrisiko in vier Risikogruppen eingeordnet.
+-   Gemäß [§ 3 Einstufung von Biostoffen (BioStoffV)](https://www.gesetze-im-internet.de/biostoffv_2013/__3.html){:target="_blank"}
 
 -   Bei bestimmten biologischen Arbeitsstoffen, welche in der [Richtlinie 2000/54/EG](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:262:0021:0045:DE:PDF){:target="_blank"} in Risiko­gruppe 3 eingestuft und mit zwei Sternchen (&#8727;) versehen wurden, ist das Infektionsrisiko für Arbeitnehmer begrenzt, da eine Übertragung über den Luftweg normalerweise nicht erfolgen kann. Diese werden zur Vereinfachung im Folgenden als biologische Arbeitsstoffe der „Risikogruppe 3(&#8727;)" bezeichnet. 
 
@@ -25,7 +25,7 @@ link: beratung.html
 
 - Arbeitsbereiche sind Bereiche, in denen Tätigkeiten mit biologischen Arbeitsstoffen durch­ geführt werden. Zum Arbeitsbereich können auch häusliche Bereiche zählen, z. B. Tätigkeits­bereiche von Pflegediensten in Privatwohnungen und beim betreuten Wohnen.
 
-## [Fachliche geeignete Personen nach § 8 Absatz 5 Satz 3 BioStoffV](https://www.gesetze-im-internet.de/biostoffv_2013/__8.html){:target="_blank"}
+## [Fachliche geeignete Personen nach § 8 Absatz 5 Satz 3 BioStoffV](https://www.gesetze-im-internet.de/biostoffv_2013/__8.html){:target="_blank"}{:title="die Exposition der Beschäftigten durch geeignete bauliche, technische und organisatorische Maßnahmen auf ein Minimum zu reduzieren, wenn eine Gefährdung der Beschäftigten nicht durch eine Maßnahme nach Nummer 1 oder Nummer 2 verhindert werden kann oder die Biostoffe bestimmungsgemäß freigesetzt werden,"} in Risikogruppen werden biologische Arbeitsstoffe nach ihrem Infektionsrisiko in vier Risikogruppen eingeordnet."}
 
 Fachlich geeignet sind Personen, die aufgrund ihrer abgeschlossenen Ausbildung und Erfah­ rung Infektionsgefahren erkennen und Maßnahmen zu Ihrer Abwehr treffen können, z. B. Ärzte, Zahnärzte, Gesundheits- und Krankenpfleger, Medizinisch-technische Assistenten, Hebammen, Desinfektoren, Medizinische oder Zahnmedizinische Fachangestellte, Rettungs­ sanitäter und -assistenten und Altenpfleger.
 
