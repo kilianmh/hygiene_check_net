@@ -3744,7 +3744,7 @@
 			}
 
 			#sidebar .toggle:after {
-				transform: rotate(180deg);
+				transform: rotate(-180deg);
 				font-size: 2rem;
 			}
 
