@@ -3739,7 +3739,7 @@
 			}
 
 			#sidebar .toggle:before {
-				content: '\f0a9';
+				content: '\f0a8';
 				font-size: 2rem;
 				height: inherit;
 				left: 0;
@@ -3752,7 +3752,7 @@
 
 		#sidebar.inactive {
 			margin-left: -26em;
-			content: '\f0a8';
+			content: '\f0a9';
 		}
 
 		@media screen and (max-width: 1920px) {
