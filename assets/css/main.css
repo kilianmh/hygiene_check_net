@@ -3730,7 +3730,7 @@
 				text-transform: none !important;
 				color:var(--colorToggle);
 
-				content: '\f0a8';
+				content: '\f0a9';
 				font-size: 2rem;
 				height: inherit;
 				left: 0;
@@ -3743,8 +3743,23 @@
 
 
 			#sidebar .toggle:after {
-				transform: '\f0a9';
+				-moz-osx-font-smoothing: grayscale;
+				-webkit-font-smoothing: antialiased;
+				font-family: FontAwesome;
+				font-style: normal;
+				font-weight: normal;
+				text-transform: none !important;
+				color:var(--colorToggle);
+
+				content: '\f0a8';
 				font-size: 2rem;
+				height: inherit;
+				left: 0;
+				line-height: inherit;
+				position: absolute;
+				text-indent: 0;
+				top: 0;
+				width: inherit;
 			}
 
 		#sidebar.inactive {
