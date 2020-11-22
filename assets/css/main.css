@@ -3744,7 +3744,7 @@
 			}
 
 			#sidebar .toggle:after {
-				transform: rotate(-180deg);
+				transform: '\f0a9';
 				font-size: 2rem;
 			}
 
@@ -3855,7 +3855,6 @@
 
 				#sidebar .toggle:after {
 					border-radius: 0.375em;
-					content: '';
 					height: 3.5em;
 					left: 1em;
 					position: absolute;
