@@ -3854,7 +3854,7 @@
 					}
 
 				body.is-loading #sidebar {
-					display: none;
+					display: block;
 				}
 
 		}
