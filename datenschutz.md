@@ -1,7 +1,7 @@
 ---
 title: Datenschutz­erklärung
 layout: page
-link: datenschutz.html
+link: datenschutz_erklaerung.html
 ---
 
 ## Datenschutz auf einen Blick
@@ -99,8 +99,9 @@ GitHub, Inc., \
 
 ## Allgemeine Hinweise und Pflicht­informationen
 
-
-### Datenschutz
+{% raw %}
+  <h3>Datenschutz</h3>
+{% endraw %}
 
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten
 sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und
