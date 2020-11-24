@@ -1,7 +1,7 @@
 # Site settings
 title: hygiene-check.net
 subtitle: die Coronachecker
-email: susana.montoro@protonmail.com
+email: susana.montoro@gmx.de
 description: Ihre Hygienprofis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hygiene-check.net/" # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: Schwanau
 state: Baden-Württemberg
 zip_code: 77963
 country: Deutschland
-phone: 017684905537
+phone: 0176 84905537
 
 # Social settings
 500px_url:

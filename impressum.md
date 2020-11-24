@@ -13,7 +13,7 @@ Krummestr. 1B
 
 ## Kontakt
 
-Telefon: +4917684905537  
+Telefon: 0176 84905537  
 E-Mail: susana.montoro@protonmail.com
 
 <!-- ## Berufsbezeichnung und berufsrechtliche Regelungen

@@ -10,7 +10,7 @@ Bei Fragen oder W&uuml;nschen k&ouml;nnen Sie uns gerne anrufen, E-Mail schreibe
 Susana Montoro y Stingl  
 Krummestraße 1b  
 77963 Schwanau  
-Telefon: +4917684905537  
+Telefon: 0176 84905537  
 E-Mail: [susana.montoro@gmx.de](mailto:susana.montoro@gmx.de)
 <!-- [![Susana_montoro](asset/images/Bewerbungsfoto_Susana.jpg)]{: .image.right}-->
 
@@ -20,11 +20,9 @@ Joachim B. H&auml;mmerle
 Krummestraße 1b  
 77963 Schwanau  
 E-Mail: [jo.haemmerle@gmx.de](mailto:jo.haemmerle@gmx.de)
-Telefon: 017684905674
 
 ### Webmaster  
 Kilian M. H&auml;mmerle    
 Sisteroner Weg 6  
 79336 Herbolzheim  
 E-Mail: [kilian.haemmerle@protonmail.com](mailto:kilian.haemmerle@protonmail.com)  
-Tel. +4915905369688
