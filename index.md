@@ -41,7 +41,7 @@ link: index.html
 		<article>
 		<span class="icon"><img src="assets/images/pump-medical.svg" style="width: 100%; height:100%;" alt="Medizin-Spender"></span>
 			<a href="plan.html"><div class="content">
-				<h3>Hygiene- /Desinfektionspläne</h3>
+				<h3>Hygiene- / Desinfektionspläne</h3>
 				<ul>
 					<li>Hygienepläne nach dem fünf Punkte System</li>
 					<li>Individuelle Desinfektionspl&auml;ne</li>

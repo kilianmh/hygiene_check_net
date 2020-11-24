@@ -6,4 +6,4 @@ link: schlussdesinfektion.html
 
 ![Gefährdungsbeurteilung](assets/images/gruppe.jpg){: .image.right}
 
-Wir machen Ihre Schlussdesinfektion nach RKI-Richtlinien und Infektionsschutzgesetz. Nach Ausbruch von Covit-19 oder eine andere meldepflichtige ansteckende Krankheiten, beseitigen wir professionell  alle Vieren  und Bakterien.
+Wir machen Ihre Schlussdesinfektion nach RKI-Richtlinien und Infektionsschutzgesetz. Nach Ausbruch von Covid19 oder anderer meldepflichtiger ansteckender Krankheiten, beseitigen wir professionell  alle Viren und Bakterien.

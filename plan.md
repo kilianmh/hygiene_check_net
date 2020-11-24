@@ -20,14 +20,15 @@ link: plan.html
 -   Sorgen Sie dafür, dass der Hygieneplan von ihren Mitarbeiterinnen und Mitarbeitern umgesetzt wird.
 
 #### 4. Schritt: Regelmäßige Überprüfung des Hygieneplans
--   Einmal jährlich einen kurzen Check des Hygieneplans vornehmen.
+-   Einmal j&auml;hrlich einen kurzen Check des Hygieneplans vornehmen.
       
 #### 5. Schritt: Dokumentation der Maßnahmen.
--   Verwenden Sie Protokolle und Checklisten in denen z.B. die Desinfektion von Gegenständen lückenlos festgehalten wird.
+-   Verwenden Sie Protokolle und Checklisten in denen z.B. die Desinfektion von Gegenst&auml;nden l&uuml;ckenlos festgehalten wird.
 
 ### Desinfektionsplan
 
-Im Desinfektionsplan werden detailliert alle Maßnahmen zur Reinigung und Desinfektion aufgeführt, die in einem bestimmten Bereich regelmäßig vom Personal durchgeführt werden müssen.  
-Die beschrieben Maßnahme gelten als Dienstanweisung.
+- Im Desinfektionsplan werden detailliert alle Maßnahmen zur Reinigung und Desinfektion aufgeführt, die in einem bestimmten Bereich regelmäßig vom Personal durchgeführt werden müssen.  
 
-- In der Regel besteht ein Desinfektionsplan aus einer Tabelle Dort sind die zu desinfizierenden Gegenständen ( z.B. Möbel, Instrumente, Spielzeug, Waschschüssel) und Flächen ( z.B. Fußboden, Arbeitsflächen) und die einzelnen Maßnahmen aufgelistet.
+- Die beschrieben Maßnahme gelten als Dienstanweisung.
+
+- In der Regel besteht ein Desinfektionsplan aus einer Tabelle. Dort sind die zu desinfizierenden Gegenständen (z.B. Möbel, Instrumente, Spielzeug, Waschschüssel) und Flächen (z.B. Fußboden, Arbeitsflächen) und die einzelnen Maßnahmen aufgelistet.

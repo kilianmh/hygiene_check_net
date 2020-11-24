@@ -6,33 +6,33 @@ link: schulung.html
 
 Hygiene-Schulung nach neusten RKI Richtlinien: Infektionsschutzgesetz und Arbeitsschutz nach TRBA 250.
 
-### Hände-Hygiene Angestellte:
-- Die fünf Regeln der Händehygiene.  
+### Händehygiene Angestellte:
+- Die fünf Regeln der H&auml;ndehygiene.  
 - Wann, wie, womit.  
-- Anwendungsfehler und allgemeines was es zu beachten gibt.  
+- Anwendungsfehler und allgemeines, was es zu beachten gibt.  
 
 {% include image_click.html direction="right" src="https://raw.githubusercontent.com/kilianmh/hygiene_check_net/master/assets/images/fingerspitzen.jpg" description="Fingerspitzen" %}  
 
-### Hände-Desinfektion Angestellte:
-- Wie desinfiziere ich meine Hände richtig.
-- Wann desinfiziere ich meine Hände.
+### Händedesinfektion Angestellte:
+- Wie desinfiziere ich meine H&auml;nde richtig.
+- Wann desinfiziere ich meine H&auml;nde.
 - Gesundheitliche Aspekte sowie Gefahren besprechen.
 
-### Hände Hygiene Kinder:
-- Allgemeines zu Kinderhände.  
+### Händehygiene Kinder:
+- Allgemeines zu Kinderh&auml;nde.  
 - Was gibt es zu beachten.  
 - Wie oft, wann, womit.  
-- Kinderhände desinfizieren: richtige Anwendung. Was gibt es zu beachten.  
-- Gefahr Vergiftung.
+- Kinderhände desinfizieren: richtige Anwendung und was es zu beachten.  
+- Gefahr: Vergiftung.
 
-### Flächendesinfektion:
+### Fl&auml;chendesinfektion:
 - Richtiger Umgang mit Desinfektionsmittel.
-- Zweieimer System und fünf Farben System besprechen.
+- Zwei-Eimer-System und F&uuml;nf-Farben-System besprechen.
 - Wann, wo, womit.
 - Gefahren besprechen.
-- Weniger ist mehr.
+- Weniger ist (meist) mehr.
 
-### Hygiene Artikel:
+### Hygieneartikel:
 - Welche Einmalhandschuhe?
-- Richtiger Umgang mit Einmalhandschuhe.
+- Richtiger Umgang mit Einmalhandschuhen.
 - Richtige Abfallentsorgung nach Infektionsschutzgesetz.
