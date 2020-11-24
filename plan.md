@@ -29,6 +29,6 @@ link: plan.html
 
 - Im Desinfektionsplan werden detailliert alle Maßnahmen zur Reinigung und Desinfektion aufgeführt, die in einem bestimmten Bereich regelmäßig vom Personal durchgeführt werden müssen.  
 
-- Die beschrieben Maßnahme gelten als Dienstanweisung.
+- Die beschriebenen Maßnahme gelten als Dienstanweisung.
 
 - In der Regel besteht ein Desinfektionsplan aus einer Tabelle. Dort sind die zu desinfizierenden Gegenständen (z.B. Möbel, Instrumente, Spielzeug, Waschschüssel) und Flächen (z.B. Fußboden, Arbeitsflächen) und die einzelnen Maßnahmen aufgelistet.
