@@ -11,7 +11,7 @@ Susana Montoro y Stingl
 Krummestraße 1b  
 77963 Schwanau  
 Telefon: 0176 84905537  
-E-Mail: [susana.montoro@gmx.de](mailto:susana.montoro@gmx.de)
+E-Mail: {{ site.email }}(mailto:{{ site.email }})
 <!-- [![Susana_montoro](asset/images/Bewerbungsfoto_Susana.jpg)]{: .image.right}-->
 
 
