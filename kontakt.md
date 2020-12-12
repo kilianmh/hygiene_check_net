@@ -4,13 +4,11 @@ title: Kontakt
 link: contact.html
 ---
 
-Bei Fragen oder W&uuml;nschen k&ouml;nnen Sie uns gerne anrufen, E-Mail schreiben, oder uns &uuml;ber das Formular eine Anfrage senden.
+Bei Fragen oder W&uuml;nschen Kontaktieren Sie uns gerne &uuml;ber unser Kontaktformular oder per Mail eine Anfrage senden.
 
 ### Staatlich geprüfte Desinfektorin, Arbeitspädogin
 Susana Montoro y Stingl  
-Krummestraße 1b  
-77963 Schwanau  
-Telefon: 0176 84905537  
+Krummestraße 1b   
 E-Mail: {{ site.email }}(mailto:{{ site.email }})
 <!-- [![Susana_montoro](asset/images/Bewerbungsfoto_Susana.jpg)]{: .image.right}-->
 
