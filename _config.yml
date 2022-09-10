@@ -1,29 +1,28 @@
 # Site settings
 title: hygiene-check.net
 subtitle: die Coronachecker
-email: susana.montoro@protonmail.com
+email: jo.haemmerle@gmx.de
 description: Ihre Hygienprofis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hygiene-check.net/" # the base hostname & protocol for your site
-author: Susana Montoro y Stingl, Joachim H&auml;mmerle
-street_address: Krummestraße 1B
-city: Schwanau
+author: Joachim H&auml;mmerle
+street_address: Sisteroner Weg 6
+city: Herbolzheim
 state: Baden-Württemberg
-zip_code: 77963
+zip_code: 79336
 country: Deutschland
-phone: 0176 84905537
 
 # Social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # Build settings
 markdown: kramdown
